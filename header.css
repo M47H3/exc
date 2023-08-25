@@ -1,0 +1,33 @@
+html {
+   margin-left: 5%;
+   margin-top: 5%;
+   background-color: rgb(95, 95, 95);
+}
+.but{
+background-color: rgb(236, 71, 71);
+color: white;
+border-radius: 25px;
+}
+.bt{
+background-color: rgb(59, 156, 59);
+color: white;
+border-radius: 25px;
+}
+.style{
+   display: flex;
+   justify-content: space-evenly;
+}
+.est{
+   margin-top: 35%;
+   border-radius: 25px;
+}
+h1{
+   color: white;
+}
+label{
+   color: white;
+   font-size: larger;
+}
+#output{
+   color:white;
+}
